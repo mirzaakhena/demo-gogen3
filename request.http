@@ -1,0 +1,10 @@
+POST http://localhost:8080/runpersoncreate
+
+{
+  "name": "Badu",
+  "age": 13
+}
+
+###
+
+GET http://localhost:8080/getallperson
